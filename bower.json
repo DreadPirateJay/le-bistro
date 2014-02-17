@@ -1,0 +1,10 @@
+{
+  "name": "jessicaham",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2",
+    "gumby": "~2.6.0"
+  },
+  "devDependencies": {}
+}
